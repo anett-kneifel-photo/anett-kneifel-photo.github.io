@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.461f52e5.css",
-    "main.js": "/static/js/main.87ec5506.js",
+    "main.js": "/static/js/main.a6e933fe.js",
     "static/media/Interior_III-3.jpg": "/static/media/Interior_III-3.2be0d0e3649c31a10716.jpg",
     "static/media/Interior_III-7.jpg": "/static/media/Interior_III-7.5c5a9eeaa5c37b202aa9.jpg",
     "static/media/Interior_III-6.jpg": "/static/media/Interior_III-6.c1fb83613a2e7ae4eb2d.jpg",
@@ -18,6 +18,6 @@
   },
   "entrypoints": [
     "static/css/main.461f52e5.css",
-    "static/js/main.87ec5506.js"
+    "static/js/main.a6e933fe.js"
   ]
 }
