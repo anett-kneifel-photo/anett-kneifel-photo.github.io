@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  text-decoration: none;
+  background-color: #252424;
+  color: whitesmoke;
+  overflow: hidden;
+  overflow-y: auto;
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 1px;
+  scrollbar-width: thin;
+}
+
+a {
+  color: whitesmoke;
+  text-decoration: none;
+}
