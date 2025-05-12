@@ -1,0 +1,37 @@
+[
+  {
+    "index": "01",
+    "src": "/assets/images/Galleries/galtopimages/01.jpg",
+    "srcSmall": "/assets/images/Galleries/galtopimages/small/01_small.jpg",
+    "width": 1920,
+    "height": 1280
+  },
+  {
+    "index": "02",
+    "src": "/assets/images/Galleries/galtopimages/02.jpg",
+    "srcSmall": "/assets/images/Galleries/galtopimages/small/02_small.jpg",
+    "width": 1920,
+    "height": 1280
+  },
+  {
+    "index": "03",
+    "src": "/assets/images/Galleries/galtopimages/03.jpg",
+    "srcSmall": "/assets/images/Galleries/galtopimages/small/03_small.jpg",
+    "width": 1920,
+    "height": 1440
+  },
+  {
+    "index": "04",
+    "src": "/assets/images/Galleries/galtopimages/04.jpg",
+    "srcSmall": "/assets/images/Galleries/galtopimages/small/04_small.jpg",
+    "width": 1920,
+    "height": 1280
+  },
+  {
+    "index": "05",
+    "src": "/assets/images/Galleries/galtopimages/05.jpg",
+    "srcSmall": "/assets/images/Galleries/galtopimages/small/05_small.jpg",
+    "width": 1920,
+    "height": 1280
+  }
+]
